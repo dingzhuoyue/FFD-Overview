@@ -17,5 +17,5 @@ Fig. 1. Schematic diagram of computer vision technology for the detection of for
 | Image Processing | Flame and Smoke | Accuracy of 99% | Classification | Fire and smoke detection without sensors: Image processing based approach |
 | Image Processing | Flame and Smoke | N/A | Classification | Fire and smoke detection using wavelet analysis and disorder characteristics |
 | Deep Learning | Flame | Accuracy of 98.42% | Classification | FFireNet: Deep Learning Based Forest Fire Classification and Detection in Smart Cities |
-| Deep Learning | Flame | response time is 0.7s | Classification | Research on the identification method for the forest fire based on deep learning | EdgeFireSmoke: A Novel Lightweight CNN Model for Real-Time Video Fire–Smoke Detection |
-| Deep Learning | Flame and Smoke | F1 score is 95.77% | Classification |
+| Deep Learning | Flame | response time is 0.7s | Classification | Research on the identification method for the forest fire based on deep learning |
+| Deep Learning | Flame and Smoke | F1 score is 95.77% | Classification | EdgeFireSmoke: A Novel Lightweight CNN Model for Real-Time Video Fire–Smoke Detection |
