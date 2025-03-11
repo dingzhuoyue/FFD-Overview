@@ -1,0 +1,8 @@
+path: D:\\yolov5-All\\yolov5-6.1Network Structure Modification\\datasets1
+train: images\\train
+val: images\\val
+test:
+
+#classes
+nc: 2
+names: ['fire','smoke']
