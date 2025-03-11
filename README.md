@@ -43,7 +43,7 @@ Fig. 1. Schematic diagram of computer vision technology for the detection of for
 # Citation
 If you find this work useful in your research, please consider cite:
 ```
-@article{Ding2025FFD-Overview,
+@article{
   title={Advancing Forest Fire Detection with Computer Vision: A Comprehensive Review of Classification, Detection, and Segmentation Techniques},
   author={Zhuoyue Ding and Lei Huang and Cheng Zhang},
   booktitle ={The Visual Computer},
