@@ -39,3 +39,15 @@ Fig. 1. Schematic diagram of computer vision technology for the detection of for
 | Image Processing | Flame | N/A | Image Segmentation | A new flame‐based colour space for efficient fire detection |
 | Deep Learning | Flame | Accuracy is 96.67% | Image Segmentation | ATT Squeeze U-Net: A Lightweight Network for Forest Fire Detection and Recognition |
 | Deep Learning | Flame | Accuracy is 99.9% | Image Segmentation | Deep Learning and Transformer Approaches for UAV-Based Wildfire Detection and Segmentation |
+* Note:The code and datasets in the article can be found in the above folder.
+# Citation
+If you find this work useful in your research, please consider cite:
+```
+@article{Ding2025FFD-Overview,
+  title={Advancing Forest Fire Detection with Computer Vision: A Comprehensive Review of Classification, Detection, and Segmentation Techniques},
+  author={Zhuoyue Ding and Lei Huang and Cheng Zhang},
+  booktitle ={The Visual Computer},
+  month = {March},
+  year={2025}
+}
+```
