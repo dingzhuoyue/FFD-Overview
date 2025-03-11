@@ -30,3 +30,12 @@ Fig. 1. Schematic diagram of computer vision technology for the detection of for
 | Deep Learning | Smoke | 74.6FPS | Object Detection | Ea-yolo: efficient extraction and aggregation mechanism of YOLO for fire detection |
 | Deep Learning | Smoke | 25FPS | Object Detection | Light-Weight Student LSTM for Real-Time Wildfire Smoke Detection |
 | Deep Learning | Flame and Smoke | 24.57FPS | Object Detection | YOLO-ULNet: Ultralightweight Network for Real-Time Detection of Forest Fire on Embedded Sensing Devices |
+## Image segmentation task
+| Method | Objects | Performance | Application | Paper Title | 
+| --- | --- | --- | --- | --- |
+| Image Processing | Flame | N/A | Image Segmentation | UAV-based forest fire detection and tracking using image processing techniques |
+| Image Processing | Flame | N/A | Image Segmentation | Forest Fire Detection Algorithm Based on Digital Image |
+| Image Processing | Flame | Accuracy is 96.67% | Image Segmentation | 样本熵融合聚类算法的森林火灾图像识别研究 |
+| Image Processing | Flame | N/A | Image Segmentation | A new flame‐based colour space for efficient fire detection |
+| Deep Learning | Flame | Accuracy is 96.67% | Image Segmentation | ATT Squeeze U-Net: A Lightweight Network for Forest Fire Detection and Recognition |
+| Deep Learning | Flame | Accuracy is 99.9% | Image Segmentation | Deep Learning and Transformer Approaches for UAV-Based Wildfire Detection and Segmentation |
