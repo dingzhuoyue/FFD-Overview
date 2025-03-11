@@ -19,3 +19,14 @@ Fig. 1. Schematic diagram of computer vision technology for the detection of for
 | Deep Learning | Flame | Accuracy of 98.42% | Classification | FFireNet: Deep Learning Based Forest Fire Classification and Detection in Smart Cities |
 | Deep Learning | Flame | response time is 0.7s | Classification | Research on the identification method for the forest fire based on deep learning |
 | Deep Learning | Flame and Smoke | F1 score is 95.77% | Classification | EdgeFireSmoke: A Novel Lightweight CNN Model for Real-Time Video Fire–Smoke Detection |
+## Object detection task
+| Method | Objects | Performance | Application | Paper Title | 
+| --- | --- | --- | --- | --- |
+| Image Processing | Flame | True Positive Rate is 89.97% | Object Detection | Real-Time Forest Fire Detection Framework Based on Artificial Intelligence Using Color Probability Model and Motion Feature Analysis |
+| Image Processing | Smoke | mAP is 97.8% | Object Detection | A Smoke Detection Algorithm with Multi-Texture Feature Exploration Under a Spatio-Temporal Background Model |
+| Image Processing | Smoke | F1 score is 97.2% | Object Detection | 改进局部三值模式的烟雾识别和纹理分类 |
+| Deep Learning | Flame | F1 score is 99.7% | Object Detection | Fire Detection from Images Using Faster R-CNN and Multidimensional Texture Analysis |
+| Deep Learning | Flame | Accuracy is 85.2% | Object Detection | MS-FRCNN: A Multi-Scale Faster RCNN Model for Small Target Forest Fire Detection |
+| Deep Learning | Smoke | 74.6FPS | Object Detection | Ea-yolo: efficient extraction and aggregation mechanism of YOLO for fire detection |
+| Deep Learning | Smoke | 25FPS | Object Detection | Light-Weight Student LSTM for Real-Time Wildfire Smoke Detection |
+| Deep Learning | Flame and Smoke | 24.57FPS | Object Detection | YOLO-ULNet: Ultralightweight Network for Real-Time Detection of Forest Fire on Embedded Sensing Devices |
