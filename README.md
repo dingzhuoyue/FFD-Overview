@@ -24,7 +24,7 @@ Fig. 1. Schematic diagram of computer vision technology for the detection of for
 | --- | --- | --- | --- | --- |
 | Image Processing | Flame | True Positive Rate is 89.97% | Object Detection | Real-Time Forest Fire Detection Framework Based on Artificial Intelligence Using Color Probability Model and Motion Feature Analysis |
 | Image Processing | Smoke | mAP is 97.8% | Object Detection | A Smoke Detection Algorithm with Multi-Texture Feature Exploration Under a Spatio-Temporal Background Model |
-| Image Processing | Smoke | F1 score is 97.2% | Object Detection | 改进局部三值模式的烟雾识别和纹理分类 |
+| Image Processing | Smoke | F1 score is 97.2% | Object Detection | Smoke Recognition and Texture Classification Using Improved Local Ternary Patterns |
 | Deep Learning | Flame | F1 score is 99.7% | Object Detection | Fire Detection from Images Using Faster R-CNN and Multidimensional Texture Analysis |
 | Deep Learning | Flame | Accuracy is 85.2% | Object Detection | MS-FRCNN: A Multi-Scale Faster RCNN Model for Small Target Forest Fire Detection |
 | Deep Learning | Smoke | 74.6FPS | Object Detection | Ea-yolo: efficient extraction and aggregation mechanism of YOLO for fire detection |
@@ -35,7 +35,7 @@ Fig. 1. Schematic diagram of computer vision technology for the detection of for
 | --- | --- | --- | --- | --- |
 | Image Processing | Flame | N/A | Image Segmentation | UAV-based forest fire detection and tracking using image processing techniques |
 | Image Processing | Flame | N/A | Image Segmentation | Forest Fire Detection Algorithm Based on Digital Image |
-| Image Processing | Flame | Accuracy is 96.67% | Image Segmentation | 样本熵融合聚类算法的森林火灾图像识别研究 |
+| Image Processing | Flame | Accuracy is 96.67% | Image Segmentation | Forest fire image recognition algorithm of sample entropy fusion and clustering |
 | Image Processing | Flame | N/A | Image Segmentation | A new flame‐based colour space for efficient fire detection |
 | Deep Learning | Flame | Accuracy is 96.67% | Image Segmentation | ATT Squeeze U-Net: A Lightweight Network for Forest Fire Detection and Recognition |
 | Deep Learning | Flame | Accuracy is 99.9% | Image Segmentation | Deep Learning and Transformer Approaches for UAV-Based Wildfire Detection and Segmentation |
@@ -45,9 +45,9 @@ If you find this work useful in your research, please consider cite:
 ```
 @article{
   title={Advancing Forest Fire Detection with Computer Vision: A Comprehensive Review of Classification, Detection, and Segmentation Techniques},
-  author={Zhuoyue Ding and Lei Huang and Cheng Zhang},
-  booktitle ={The Visual Computer},
-  month = {March},
+  author={Zhuoyue Ding and Lei Huang and Xiaoying Jing},
+  booktitle ={Image And Vision Computing},
+  month = {April},
   year={2025}
 }
 ```
